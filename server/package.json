@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "fastboot-app-server": "^1.1.2-beta.1"
+  }
+}
